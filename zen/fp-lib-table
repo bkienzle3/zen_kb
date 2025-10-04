@@ -6,4 +6,5 @@
   (lib (name "Trackpad")(type "KiCad")(uri "/Users/mu/Documents/keyboard/TM040040-2024-303/3D")(options "")(descr ""))
   (lib (name "keyswitches")(type "KiCad")(uri "/Users/mu/Documents/keyboard/keyswitches.pretty")(options "")(descr ""))
   (lib (name "EC12")(type "KiCad")(uri "/Users/mu/Documents/keyboard/EC12E2440301/KiCad")(options "")(descr ""))
+  (lib (name "PEC11L")(type "KiCad")(uri "${KEYBOARD_DUMPING_GROUND_DIR}/PEC11L-4015F-S0020/KiCad")(options "")(descr ""))
 )

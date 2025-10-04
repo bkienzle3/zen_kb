@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "keebio")(type "Legacy")(uri "/Users/mu/Documents/keyboard/keebio-components/keebio.lib")(options "")(descr ""))
   (lib (name "kb2040")(type "KiCad")(uri "/Users/mu/Documents/keyboard/kb2040-kicad/kb2040.kicad_sym")(options "")(descr ""))
+  (lib (name "PEC11L-4015F-S0020")(type "Legacy")(uri "${KEYBOARD_DUMPING_GROUND_DIR}/PEC11L-4015F-S0020/KiCad/PEC11L-4015F-S0020.lib")(options "")(descr ""))
 )
