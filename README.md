@@ -1,7 +1,7 @@
 # zen_kb
 
-<img src="pictures/main.jpg">
-<img src="pictures/full.jpg">
+<img src="pictures/main.jpeg">
+<img src="pictures/full.jpeg">
 
 "Maximalist" ergo mech split keyboard. 38-keys, 3 rotary encoders, 1 trackpad. My last keyboard was mu (無), meaning nothing. Since this adds a lot of extra bells and whistles, I've named it zen (全), meaning all. This keyboard is meant to be much more "finished" than mu. With that said, this is still an eternal work in progress. The hardware is finished, at least. The config is a never ending journey.
 
