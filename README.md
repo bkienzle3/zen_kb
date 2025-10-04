@@ -19,6 +19,8 @@ Kailh Choc V1 key switches x 38
 <br>Cirque TM040040-2024-303 x 1 (trackpad)
 <br>Molex 505110-1297 x 1
 <br>.50 mm pitch type B FFC x 1
+<br>M2*6mm screws, hex socket head x 12
+<br>M2 heat set inserts x 12
 
 ## Other
 I recommend putting some sort of grip tape around the knobs. I'm using self-fusing silicone tape, but anything should work.
